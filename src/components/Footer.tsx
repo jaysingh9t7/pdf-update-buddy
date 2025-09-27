@@ -1,6 +1,6 @@
 import React from 'react';
 import { MapPin, Phone, Mail, Truck } from 'lucide-react';
-import truckIcon from '@/assets/truck-icon.png';
+import truckIcon from '@/assets/truck-icon.webp';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

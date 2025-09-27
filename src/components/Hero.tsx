@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from '@/components/ui/button';
 import { ArrowRight, Truck, Shield, Clock } from 'lucide-react';
-import heroImage from '@/assets/hero-logistics.jpg';
+import heroImage from '@/assets/hero-logistics.webp';
 
 const Hero = () => {
   const scrollToSection = (href: string) => {

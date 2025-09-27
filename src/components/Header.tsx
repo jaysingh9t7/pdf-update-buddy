@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from '@/components/ui/button';
 import { Truck, Menu, Phone, Mail } from 'lucide-react';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
-import truckIcon from '@/assets/truck-icon.png';
+import truckIcon from '@/assets/truck-icon.webp';
 
 const Header = () => {
   const navItems = [

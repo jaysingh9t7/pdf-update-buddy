@@ -2,8 +2,8 @@ import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Truck, Container, Shield, Clock, CheckCircle, ArrowRight } from 'lucide-react';
-import ftlTruckImage from '@/assets/ftl-truck.jpg';
-import odcTruckImage from '@/assets/odc-truck.jpg';
+import ftlTruckImage from '@/assets/ftl-truck.webp';
+import odcTruckImage from '@/assets/odc-truck.webp';
 
 const Services = () => {
   const ftlServices = [

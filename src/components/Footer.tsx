@@ -1,6 +1,6 @@
 import React from 'react';
 import { MapPin, Phone, Mail, Truck } from 'lucide-react';
-import truckIcon from '@/assets/truck-icon.webp';
+import logo from '@/assets/logo.png';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -32,7 +32,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-6">
             <div className="flex items-center gap-3">
-              <img src={truckIcon} alt="INDTRANS Logo" className="h-10 w-10 invert" />
+              <img src={logo} alt="INDTRANS Logo" className="h-10 w-10" />
               <div className="flex flex-col">
                 <h3 className="text-xl font-bold">INDTRANS</h3>
                 <span className="text-xs opacity-90">FREIGHT SOLUTIONS</span>

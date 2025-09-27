@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from '@/components/ui/button';
 import { Truck, Menu, Phone, Mail } from 'lucide-react';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
-import truckIcon from '@/assets/truck-icon.webp';
+import logo from '@/assets/logo.png';
 
 const Header = () => {
   const navItems = [
@@ -45,7 +45,7 @@ const Header = () => {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <div className="flex items-center gap-3">
-              <img src={truckIcon} alt="INDTRANS Logo" className="h-10 w-10" />
+              <img src={logo} alt="INDTRANS Logo" className="w-8 h-8" />
               <div className="flex flex-col">
                 <h1 className="text-xl font-bold gradient-text">INDTRANS</h1>
                 <span className="text-xs text-muted-foreground">FREIGHT SOLUTIONS</span>

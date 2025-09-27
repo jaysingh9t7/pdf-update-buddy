@@ -1,64 +1,46 @@
-# Welcome to your Lovable project
+# INDTRANS Freight Solutions Website
 
-## Project info
+## About the Project
 
-**URL**: https://lovable.dev/projects/1bfaf0e8-8d8d-4a2f-becb-a1bb13faf511
+This is the official website for INDTRANS Freight Solutions, a Mumbai-based logistics company specializing in comprehensive end-to-end road transportation solutions across India.
 
-## How can I edit this code?
+## Company Information
 
-There are several ways of editing your application.
+- **Company**: INDTRANS FREIGHT SOLUTIONS
+- **Tagline**: "Your Reliable transportation partner"
+- **Location**: 210, Grohitam premises APMC Market, Sect 19 Vashi Navi Mumbai - 400703
+- **Contact**: +91 8454006898, +91 8355921875
+- **Email**: operations@indtransfreightsolutions.com
+- **Website**: www.indtransfreightsolutions.com
 
-**Use Lovable**
+## Services Offered
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1bfaf0e8-8d8d-4a2f-becb-a1bb13faf511) and start prompting.
+- **Full Truck Load (FTL)**: Full body trucks, Closed Container Trucks, Reefer Container Trucks, Import/Export Containers
+- **Over Dimensional Cargo (ODC)**: Specialized trailers, Expert handling, Safety compliance
+- **Real-time Tracking**: Transparent operations with live updates (Coming Soon)
+- **Cost-effective Solutions**: Competitive rates without compromising quality
 
-Changes made via Lovable will be committed automatically to this repo.
+## Features
 
-**Use your preferred IDE**
+- Professional logistics website design
+- Responsive layout for all devices
+- Service showcase with detailed information
+- Consignment tracking section (marked as "Coming Soon")
+- Contact forms and quote requests
+- Company information and capabilities
+- Modern design system with logistics theme
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## Technologies Used
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite** - Fast build tool and development server
+- **TypeScript** - Type-safe JavaScript
+- **React** - Modern UI framework
+- **Tailwind CSS** - Utility-first CSS framework
+- **shadcn/ui** - High-quality component library
+
+## Development
 
 ## How can I deploy this project?
 
